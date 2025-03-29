@@ -1,5 +1,4 @@
-# BMICalculator
-20220305
+# NTUT IOS class project
 ## Lab01
 BMI Calculator
 ## Lab02
