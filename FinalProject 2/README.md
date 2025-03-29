@@ -19,3 +19,19 @@
 * Scroll view 製作水平/垂直捲動的畫面
 * LazyGrid 製作分類及商品顯示頁面
 * TextField 製作搜尋列
+### 結果展示:
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/menu_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/search_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/category_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/Home_appliances_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/product_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/cart_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/cart_product_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/check_out_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/fav_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/fav_product_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/account_menu_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/login_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/register_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/change_image.jpg)
+![image](https://github.com/kwin120/110_2_NTUT_IOS/blob/main/FinalProject%202/FinalProject/account_center_image.jpg)
